@@ -1,0 +1,41 @@
+/* Selectores de etiqueta */
+h1 {
+    font-size: 30px;
+    color: brown;
+}
+  
+h2 {
+    font-size: 20px;
+    color: red;
+}
+  
+/* Clases */
+.google {
+    width: 400px;
+    margin: auto;
+}
+  
+/* id */
+#menu {
+    border: 2px solid blue;
+}
+  
+/* selectores multiples */
+#menu li {
+    background: yellowgreen;
+}
+
+.caja-1 {
+    height: 100px;
+    background-color: red;
+}
+
+.caja-2 {
+    height: 100px;
+    background-color: blue;
+}
+
+.miborde {
+    border: 1px solid green;
+}
+  
