@@ -1,0 +1,47 @@
+
+                    Variables
+-----------------------------------------------------
+    1.- Guarda en tres variables el nombre de las
+    siguientes mascotas:
+
+    1) Pedrito  
+    2) Rufo
+    3) Chancla
+
+    Muestra en consola un mensaje como el siguiente: 
+    "Mis mascotas son Pedrito, Rufo y Chancla. 
+    Les quiero mucho"
+-----------------------------------------------------
+
+
+
+                  Input & Output
+-----------------------------------------------------
+    2.- Pedir mediante prompts el nombre de dos 
+    mascotas, y mostrar en consola el siguiente 
+    mensaje:
+
+    "Quiero mucho a mis mascotas mascota1 y mascota2"
+-----------------------------------------------------
+
+
+
+            Conversión de Tipos de Datos
+-----------------------------------------------------
+    3.- Guarda la cadena de texto "100" en una 
+    variable.
+
+    Muestra esta cadena en consola.
+
+    Muestra el TIPO DE DATO de la variable en consola.
+
+    Transforma la variable a NUMERO
+
+    Muestra de nuevo la variable en consola.
+-----------------------------------------------------
+
+
+
+
+
+
