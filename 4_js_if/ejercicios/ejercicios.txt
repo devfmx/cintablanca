@@ -1,0 +1,12 @@
+
+                    if-else
+----------------------------------------------------
+    Crea una aplicacion web con JavaScript que 
+    permita a dos usuarios jugar una partida de 
+    piedra papel o tijeras:
+    
+    Pide al jugador1 y al jugador2 que escriban su
+    elección mediante un prompt y, tras comparar los 
+    valores, muestra mediante un alert quién fue el 
+    jugador ganador.
+----------------------------------------------------
