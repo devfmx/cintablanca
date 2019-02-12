@@ -1,4 +1,5 @@
-<!-- 
+
+----------------------------------------------------------
     Apoyándote en la guía de desarrollo web de W3Schools
             https://www.w3schools.com/tags/
     crea una pagina personal donde muestres algunos datos
@@ -6,4 +7,7 @@
     
     Agrega una imagen tuya e inserta ligas que te dirigan 
     a tus redes sociales.
- -->
+
+    Además, encuentra y utiliza 5 etiquetas de HTML que 
+    sean distintas a las empleadas previamente.
+----------------------------------------------------------
