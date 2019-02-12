@@ -1,0 +1,13 @@
+
+                    Flexbox
+----------------------------------------------------
+    Utilizando unicamente divs y css, replica la 
+    bandera de Noruega usando el módulo de CSS 
+    Flexbox.
+
+    http://flags.fmcdn.net/data/flags/w580/no.png
+
+    La bandera debe ser completamente responsiva,
+    es decir, si cambias el tamaño de tu navegador,
+    la bandera debe conservar su forma.
+----------------------------------------------------

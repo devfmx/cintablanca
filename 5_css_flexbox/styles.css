@@ -1,0 +1,46 @@
+html, body {
+    height: 100%;
+}
+
+.dad-container {
+    height: 50%;
+    width: 50%;
+    background-color: blue;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.first-son-container {
+    height: 100%;
+    width: 50%;
+    background-color: yellow;
+    display: flex;
+}
+
+.second-son-container {
+    height: 50%;
+    width: 100%;
+    background-color: green;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.third-son-container {
+    height: 100%;
+    width: 50%;
+    background-color: red;
+}
+
+.fourth-son-container {
+    height: 50%;
+    width: 100%;
+    background-color: palevioletred;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.fifth-son-container {
+    height: 100%;
+    width: 50%;
+    background-color: yellow;
+}

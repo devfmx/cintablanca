@@ -1,0 +1,104 @@
+html, body {
+    height: 100%;
+}
+
+/* Contenedor de toda la bandera */
+.flag-container {
+    height: 50%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Primera fila */
+.flag-first-row {
+    height: 45%;
+    width: 100%;
+    background-color: gray;
+    display: flex;
+    flex-direction: row;
+}
+
+.first-col {
+    height: 100%;
+    width: 25%;
+    background-color: white;
+    display: flex;
+}
+
+.first-square {
+    height: 90%;
+    width: 90%;
+    background-color: red;
+}
+
+.second-col {
+    height: 100%;
+    width: 5%;
+    background-color: navy;
+}
+
+.third-col {
+    height: 100%;
+    width: 70%;
+    background-color: white;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.second-square {
+    height: 90%;
+    width: 95%;
+    background-color: red;
+}
+
+/* Segunda fila */
+.flag-second-row {
+    height: 10%;
+    width: 100%;
+    background-color: navy;
+}
+
+/* Tercera fila */
+.flag-third-row {
+    height: 45%;
+    width: 100%;
+    background-color: gray;
+    display: flex;
+    flex-direction: row;
+}
+
+.fourth-col {
+    height: 100%;
+    width: 25%;
+    background-color: white;
+    display: flex;
+    align-items: flex-end;
+}
+
+.third-square {
+    height: 90%;
+    width: 90%;
+    background-color: red;
+}
+
+.fifth-col {
+    height: 100%;
+    width: 5%;
+    background-color: navy;
+}
+
+.sixth-col {
+    height: 100%;
+    width: 70%;
+    background-color: white;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.fourth-square {
+    height: 90%;
+    width: 95%;
+    background-color: red;
+}
