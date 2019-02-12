@@ -1,16 +1,15 @@
-<!-- 
+
                 Estilos básicos
 -----------------------------------------------------
     1.- Al website simple que construiste sobre tu 
     perfil personal, agrégale estilos de:
 
-    * tipografía
+    * tipografía 
+    * tamaño de fuente
     * color de fuente
-    * tipo de fuente
     * ancho y alto
     * bordes
 -----------------------------------------------------
-
 
 
                 Margin & Padding
@@ -19,8 +18,11 @@
     y padding, alineala al centro, despues a la 
     derecha, y a la izquerda.
 
-    Distribuye los elementos del website vertical y 
-    horizontalmente de manera uniforme, 
+    Distribuye los elementos del website vertical 
+    y horizontalmente de manera uniforme, 
     usando margin y padding.
 -----------------------------------------------------
- -->
+
+NOTA: Los elementos solo lucirán centrados en un tamaño
+definido; es decir, si cambias el tamaño de tu navegador,
+los elementos de tu página no seguirán centrados.

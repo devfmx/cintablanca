@@ -1,0 +1,33 @@
+.nombre {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* text-align: center; */
+    margin-left: 18em;
+}
+
+.ocupacion {
+    color: #527a7a;
+    /* https://www.w3schools.com/colors/colors_picker.asp */
+    margin-left: 22em;
+}
+
+.hobbies {
+    padding-left: 28.8em;
+}
+
+.link {
+    font-size: 1.25em;
+    padding-left: 675px;
+}
+
+.imagen {
+    height: 250px;
+    /*width: 250px;*/
+    margin: 0 36em;
+    border: 5px solid black;
+}
+
+.habilidades {
+    border: 2px dashed blue;
+    /*padding-left: 25em;*/
+    margin-left: 40em;
+}
