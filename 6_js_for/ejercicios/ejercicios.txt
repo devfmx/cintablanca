@@ -1,0 +1,17 @@
+
+                            For Loops
+------------------------------------------------------------------------
+    Crea un arreglo con los siguientes platillos: 
+
+    1) Empanada
+    2) Tostada
+    3) Garnacha
+    4) Tamal
+    5) Picadillo
+
+    1.-Mediante un ciclo for, muestra todos los platillos
+       (recuerda la propiedad 'length')
+    2.-Mediante for e if, muestra solo la garnacha y el tamal
+    3.-Mediante for e if, muestra solo los elementos impares
+    4.-Mediante solo ciclo flor, muestra los elementos que sean pares
+------------------------------------------------------------------------
