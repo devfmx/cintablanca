@@ -1,10 +1,12 @@
 # Estructuras de Control #
 
-Permiten tomar decisiones y realizar un proceso repetidas veces. Se trata de estructuras muy importantes, ya que son las encargadas de controlar el flujo de un programa, según los requerimientos del mismo
+Permiten tomar decisiones y realizar un proceso repetidas veces. 
+Se trata de estructuras muy importantes, ya que son las encargadas de controlar el flujo de un programa, según los requerimientos del mismo
 
 ![alt text](https://www.fing.edu.uy/inco/cursos/fpr/wiki/images/3/39/Flujoifthenelse.png)
 
 **Condicional IF - ELSE**
+
 Ejecutar sentencias en línea recta no es la única opción que tenemos. Una alternativa es la ejecución condicional, en donde escogemos entre dos rutas diferentes basados en un valor Booleano.
 
 ```javascript
