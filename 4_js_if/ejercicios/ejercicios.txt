@@ -10,3 +10,8 @@
     valores, muestra mediante un alert quién fue el 
     jugador ganador.
 ----------------------------------------------------
+    Ejercicio 2
+    Cree una aplicacion web con JavaScript que reciba
+    3 numeros digitados por el usuario y con un alert
+    muestre el numero mayor.
+-----------------------------------------------------
